@@ -1,11 +1,11 @@
 # Collaborating
 
-## [Filling the blank later]
+## Filling the blank later
 
 
 - **Short Bio**
 
- [Adventurous and outgoing guy who loves a good adventure.]
+ ## Adventurous and outgoing guy who loves a good adventure.
 
 - **The recipe for your favourite dish.**
 . 1 Cook the spaghetti in a pot of boiling salted water according to package instructions.
@@ -19,4 +19,4 @@
 
 - **The definition of a word.**
 
-[The term "caring" is an adjective that describes the quality of being concerned, considerate, or attentive towards the well-being, feelings, or needs of others. A caring person demonstrates empathy and a genuine interest in the welfare of those around them, often showing kindness and offering support. It encompasses a sense of compassion and a willingness to help or provide comfort to others in various situations.]
+## The term "caring" is an adjective that describes the quality of being concerned, considerate, or attentive towards the well-being, feelings, or needs of others. A caring person demonstrates empathy and a genuine interest in the welfare of those around them, often showing kindness and offering support. It encompasses a sense of compassion and a willingness to help or provide comfort to others in various situations.
